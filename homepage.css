@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Lora','PT Serif', serif;
+}
+
+
+.bg-color{
+	background-color: #e3f2fd;
+}
+
+
+.main{
+	display: inline-block;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.text{
+	margin-top: 50px;
+}
+
+.text textarea{
+	width: 100%;
+}
